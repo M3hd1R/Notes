@@ -1,0 +1,7 @@
+{
+    "coupling":
+    {
+        "description":
+        "can occur just about any time two pieces of code share something"
+    }
+}
