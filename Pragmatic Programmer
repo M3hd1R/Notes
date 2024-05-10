@@ -1,7 +1,7 @@
 {
-    "coupling":
+    "chapter 5":
     {
-        "description":
-        "can occur just about any time two pieces of code share something"
+        "coupling": "can occur just about any time two pieces of code share something",
+        "Tell, Don't ask": "description1: "we shouldn't make decisions based on the internal state of an object",
     }
 }
